@@ -5,7 +5,9 @@ body{
 .card{
   display: flex;
   margin-bottom: 50px;
+  margin-left: 40%;
   justify-content: center;
+  text-align: center;
   align-items: center;
   position: relative;
   border-radius: .25rem;
