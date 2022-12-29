@@ -1,0 +1,181 @@
+
+[Reading: Terminology and Trading Floors]
+
+1.1 Reading: Terminology and Trading Floors (60:00)
+SECTION 1: INTRODUCTION TO MARKET MAKING
+
+There are many different participants in financial and commodity markets. 
+Among them are brokers, proprietary traders, producers, end users, fund managers and market makers (MMs). 
+A market maker's purpose is to provide liquidity, create markets, and facilitate price discovery by providing bids and offers to other market participants. 
+Market makers exist in futures, options and other instrument markets. They serve a vital purpose in the financial ecosystem.
+
+Official market makers have a special designation in most marketplaces with benefits that vary from one exchange to another. 
+Registering as a MM can provide you more bandwidth to send orders, cheaper fee rates or other benefits. 
+Often MMs will agree to provide markets for minimum amounts of the day and/or for a maximum width. 
+This ensures a fair and orderly market on the exchange at all times, even during times of price uncertainly.
+
+The next few sections will provide some of the basic framework and terminology for underlying markets and options-specific marketplaces.
+
+
+Basic Terminology
+Please watch the following videos. Use what you learned and any other resources (the internet) to define the following terms. 
+Answers are provided on the following pages:
+
+[Video 1]
+General Definitons: 
+Bid, Offer, Size, Make a Market, Spread, Hedge, Paper, Broker, Tick Size, Queue Priority.
+Order Types:
+Immediate or Cancel, Good for Day, Good-til-Cancelled, All-or-None, Fill or Kill, One cancels the other
+[Video 2]
+Below are some of the terms that options market-makers use. Spend some time familiarizing yourself with these terms. The definitions of each are provided below. The first two terms are defined for you.
+
+General Terms:
+
+Bid: The (highest) price for which someone is willing to buy something.
+
+​Offer: The (lowest) price at which someone is willing to sell something.
+
+​Size:
+
+​Make a market:
+
+Spread:
+
+​Hedge:
+
+​Index:
+
+​ETF:
+
+​Commodity:
+
+Market Participants:
+
+​Trader:
+
+​Market Maker:
+
+​Local:
+
+​Broker:
+
+​Paper:
+
+​Hedge Fund/Institution/Bank:
+
+​Retail Client:
+
+Options Specific Terms:
+
+​Fill:
+
+​Tick size:
+
+​Queue Priority:
+
+​Settlement time:
+
+​All-or-None:
+
+​Immediate or Cancel (IOC):
+
+​Good for Day order (GFD):
+
+​Good-til-Cancelled (GTC):
+
+​Fill or Kill (FOK):
+
+​OCO (one cancels the other):
+
+​Contract Size:
+
+​Vol bid, catching a bid, ripping/exploding:
+
+​Vol offered, vol smashed/smoked:
+
+​Teenie:
+
+​Theoretical Value (Theo):
+
+​Sheets (or fair value):
+
+​Liquidity:
+
+
+
+
+General Terms:  (Answers)
+
+Bid: The (highest) price for which someone is willing to buy something.
+
+Offer: The (lowest) price at which someone is willing to sell something.
+
+Size: the number of contracts that one is willing to trade at a given price.
+
+Make a market: to provide a bid and ask price and a quantity/size.
+
+Spread: The difference between the bid and the ask price.
+
+Hedge: a trade or investment to reduce the risks of another transaction. A second bet(s) that offsets risks associated with a first bet(s).
+
+Index: an instrument that tracks the performance of a market. Generally, an index will track the performance of many stocks. Examples include the Nasdaq, S&P 500, and Down Jones Industrial Average.
+
+ETF: marketable security that tracks a stock index, commodity, or other basket of assets. Behaves and trades very much like a stock.
+
+Commodity: a raw material (oil, gold) or agricultural product (soybeans, corn) that can be bought and sold, normally at one prevailing price
+
+Market Participants:
+
+Trader: can define any active market participant. Traders can work for trading firms like Akuna, as well as hedge funds, banks, etc.
+
+Market Maker: a specific trader willing to buy or sell an asset at a specific price at all times. Market makers constantly buy and sell related securities, with their primary responsibilities being to collect edge and manage risk.
+
+Local: General term for market makers. Term comes from pit trading days, as locals stood in the pit every day.
+
+Broker: a person or company that acts as an intermediary between buyers and sellers
+
+Paper: the interested parties trading against Akuna (or other market makers). Term comes from pit trading days as customer orders came via paper.
+
+Hedge Fund/Institution/Bank: Financial institutions that, for a variety of reasons, are active market participants. These groups are generally the largest paper customers.
+
+Retail Client: Smaller “paper” customers. For example, an individual trading at home.
+
+
+
+
+Options Specific Terms:
+
+Fill: Another term for the completion of a trade. If a market maker trades on their bid or offer, the market maker may claim he/she “got filled”.
+
+Tick size (tick increment): the increment between one price level and the next smallest price level. Different products have different tick sizes. For example, the tick increment in USD is 0.01, or 1 cent tick sizes.
+
+Queue Priority: for markets that are determined “price-time”, if multiple orders are entered for the same price, the participant who entered his/her order or quote first, will trade first. This person is said to have queue priority.
+
+Settlement time: the specific time of days options expire, and futures “settle” for the day. These values are used to calculate daily P&L and mark to market.
+
+All-or-None: an order type that must be executed in its entirety, or not executed at all.
+
+Immediate or Cancel (IOC) : a type of order that requires all or part of the order to be executed immediately. Unfilled parts of order are cancelled– sometimes referred to as Fill and Kill (FAK) orders.
+
+Good for Day (GFD) order: a type of order that will remain active until executed (in part or full) or until the end of the trading day. It is then cancelled.
+
+Good-till-cancelled (GTC): a type of order that will remain active until completed or cancelled by the entering party.
+
+Fill or Kill (FOK): an order type that must be executed immediately in its entirety, otherwise the order is cancelled; often with floor trading – market makers have a few seconds to decide to make a trade and can also do a partial order. Sometimes brokers will use this interchangeably with Fill and Kill and will fill partial FOK orders.
+
+OCO (one cancels the other): when one order is executed, the other order is automatically cancelled. This is usually invoked to protect someone from gaining too much exposure in one direction.
+
+Contract Size: The multiplier attached to an option or future. Options on stock generally have a multiplier of 100 shares. Options on futures have a multiplier of 1 future. The multiplier on options on a future and the multiplier on the future can vary.
+
+Vol bid, catching a bid, ripping/exploding: Variety of terms for vol going up.
+
+Vol offered, vol smashed/smoked: Variety of terms for vol going down.
+
+Teenie: lowest priced options. Generally traded for movement risk purposes.
+
+Theoretical Value (Theo): based on all inputs, the current value a market maker believes an option is worth.
+
+Sheets (or fair value): same as above, but generally when referring to where something traded.
+
+Liquidity: how easy/hard it is to trade close to fair value. Generally determined by the number on contracts on the bid/offer, along with the width of the market.
+
